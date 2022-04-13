@@ -3,4 +3,5 @@ Done with the introduction today
 
 started heatmap and visualizations
 off to data cleaning process today
-Vgh
+Done with the visualizations
+
