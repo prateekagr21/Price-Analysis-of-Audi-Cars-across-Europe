@@ -14,3 +14,6 @@ Done with the visualizations
 
 Will be starting regression models today.
 
+
+got low accuracy scores
+
