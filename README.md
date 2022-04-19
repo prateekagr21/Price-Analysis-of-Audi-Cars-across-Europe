@@ -10,7 +10,7 @@ off to data cleaning process today
 Making changes in the dataset today
 
 
-the conclusions
+the conclusions.
 
 Done with the visualizations
 
