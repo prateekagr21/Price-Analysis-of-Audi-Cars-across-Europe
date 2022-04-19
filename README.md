@@ -10,6 +10,8 @@ off to data cleaning process today
 Making changes in the dataset today
 
 
+the conclusions
+
 Done with the visualizations
 
 Will be starting regression models today.
