@@ -22,6 +22,7 @@ Will be starting regression models today.
 Regression models done
 
 working on the graphs
+Done
 
 
 Writing conclusions
